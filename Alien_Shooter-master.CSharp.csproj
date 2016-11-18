@@ -133,6 +133,7 @@
     <Compile Include="Assets\_ImportedAssets\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\_ImportedAssets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\_ImportedAssets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\_Scripts\PlayerShooting.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\_ImportedAssets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
